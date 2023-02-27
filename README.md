@@ -17,7 +17,7 @@ O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e al
 *Footer:  estão os itens de redes sociais e copyright.<br><br>
 
 # Menu / Header
-<div>
+<div align="center">
 <img src="https://github.com/udanter/udanter/issues/1#issue-1600301471
 " width="400" height="400"/>
 </div>
