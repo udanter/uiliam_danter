@@ -18,7 +18,7 @@ O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e al
 
 # Menu / Header
 <div align="center">
-<img src="![Screenshot_1](https://user-images.githubusercontent.com/78665503/221452975-1b5c816a-0af1-47a8-9786-09642ca0290c.jpg)"
+<img src="https://user-images.githubusercontent.com/78665503/221452975-1b5c816a-0af1-47a8-9786-09642ca0290c.png)"
 
  width="400" height="400"/>
 </div>
