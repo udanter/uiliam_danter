@@ -16,5 +16,8 @@ O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e al
 *Section: estão os itens sobre, serviços, habilidades, portfólio e contato e localização;<br>
 *Footer:  estão os itens de redes sociais e copyright.<br><br>
 
-# Menu
+# Menu / Header
+div align="center"
+img src="https://github.com/udanter/uiliam_danter/issues/1#issue-1600289620" width="0px" /
+/div
 
