@@ -14,9 +14,6 @@ O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e al
 *Menu: aqui estão os acessos rápido para os itens: sobre, serviços, habilidades, portfólio e contato;<br>
 *Header: neste item ficou o nome do desenvolvedor com um plano de fundo e o uso do glassmorphism;<br>
 *Section: estão os itens sobre, serviços, habilidades, portfólio e contato e localização;<br>
-*Footer:  estão os itens de redes sociais e copyright.<br><br>
+*Footer:  estão os itens de redes sociais e copyright.<br>
 
-# Menu / Header
-<div align="center">
-<img src="[https://user-images.githubusercontent.com/78665503/221452975-1b5c816a-0af1-47a8-9786-09642ca0290c.png)](https://github.com/udanter/udanter/issues/1#issue-1600301471)" width="400" height="400"/>
-</div>
+
