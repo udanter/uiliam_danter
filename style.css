@@ -1,0 +1,115 @@
+/* texto hero image */
+.hero_titulo {
+	font-size: 4.0rem;
+}
+.hero_desc {
+	font-size: 2rem;
+}
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+.bgimage{
+	height: 100vh;
+	background: url('img/heroImage.jpg');
+	background-size: cover;
+	position: relative;
+}
+.glass{
+	height: 35%;
+	top:30%;
+	position: absolute;
+	/* From https://css.glass */
+	background: rgba(187, 199, 211, 0.19);
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+	border: 1px solid rgba(187, 199, 211, 0.26);
+	}	
+	
+
+
+
+/* imagem sobre */
+
+.imagemSobre {
+	width: 100%;
+    height:360px;
+    border-radius: 50%;
+	border: 6px inset  rgb(4,98,165);
+    box-shadow: 1px 1px 10px 1px;
+	margin-top:80px;
+	
+	
+}
+.container{
+	text-align: justify;
+    
+}
+
+
+
+/* serviços */
+
+.servicesText.card{
+	height: 280px;
+	cursor: pointer;
+	text-align: justify;
+}
+
+.servicesIcon {
+	font-size: 36px;
+	text-align: center;
+	width: 100%;
+}
+
+.card-title {
+	text-align: center;
+	}
+
+.card:hover .servicesIcon{
+	color: #004f80;
+}
+
+.servicesText:hover {
+	border: 1px solid #063e8d;
+}
+
+/* menu */
+.navbar {
+	background-color: rgb(1, 10, 31);
+}
+.navbar a {
+	color: white;
+}
+.navbar a:hover {
+	color: rgb(1, 10, 31);
+	background-color: #ddd;
+	
+}
+
+.contactIcon{
+	font-size: 56px;
+	color: rgb(1, 10, 31);
+}
+
+/* Portfólio*/
+
+.card-body{
+	text-align: justify;
+	/* REMOVER AQUI*/
+	
+}
+
+#sobre, #servicos, #portfolio, #contato {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+div.col-md-3.text-center{
+	text-align: center;
+}
