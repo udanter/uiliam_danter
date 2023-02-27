@@ -12,6 +12,9 @@ Link do Site: https://udanter.github.io/uiliam_danter/
 # Resumo:
 O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e alguns ajustes manuais e foi definido nos seguintes itens:<br>
 *Menu: aqui estão os acessos rápido para os itens: sobre, serviços, habilidades, portfólio e contato;<br>
-*Header:neste item ficou o nome do desenvolvedor com um plano de fundo e o uso do glassmorphism;<br>
-*Section:estão os itens sobre, serviços, habilidades, portfólio e contato e localização;<br>
-*Footer: estão os itens de redes sociais e copyright.<br>
+*Header: neste item ficou o nome do desenvolvedor com um plano de fundo e o uso do glassmorphism;<br>
+*Section: estão os itens sobre, serviços, habilidades, portfólio e contato e localização;<br>
+*Footer:  estão os itens de redes sociais e copyright.<br><br>
+
+# Menu
+
