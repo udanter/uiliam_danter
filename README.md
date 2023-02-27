@@ -17,7 +17,7 @@ O site do projeto final foi desenvolvido em HTML,CSS, Javascrip e Bootstrap e al
 *Footer:  estão os itens de redes sociais e copyright.<br><br>
 
 # Menu / Header
-div align="center"
-img src="(https://user-images.githubusercontent.com/78665503/221451306-e817f024-fdd4-4b37-9724-69d7c2f5eb13.jpg))" width="600px" 
-//div
+
+<img src="![Screenshot_1](https://user-images.githubusercontent.com/78665503/221452975-1b5c816a-0af1-47a8-9786-09642ca0290c.jpg)
+" width="350" height="400"/>
 
